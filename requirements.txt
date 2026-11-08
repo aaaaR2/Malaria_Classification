@@ -1,0 +1,11 @@
+# Image preparation and feature extraction
+numpy==2.5.4
+pandas==3.1.1
+pillow==13.0.0
+matplotlib==3.11.2
+scikit-learn==1.9.1
+scikit-image==0.26.0
+
+# Notebook execution in VS Code
+ipython==9.18.1
+ipykernel==7.4.0

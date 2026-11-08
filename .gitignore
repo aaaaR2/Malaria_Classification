@@ -1,0 +1,11 @@
+cell_images/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+writeups/
+Thumbs.db
+desktop.ini
+.DS_Store
+artifacts/*
+!artifacts/split_manifest.csv
+!artifacts/split_summary.csv
